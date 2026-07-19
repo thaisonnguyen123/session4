@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    color: rgb(245, 168, 62);
+}
+.text-blue {
+    color: rgb(0, 0, 255);
+}
+.red {
+    color: rgb(255, 0, 0);
+}
+
+.text-yellow {
+    color: rgb(255, 255, 0);
+}
