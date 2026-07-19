@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: blanchedalmond;
+}
+h1 {
+color: whitrgb(68, 31, 200);
+text-align: center;
+}
+p {
+    text-align: center;
+
+}
+div {
+  text-decoration: none;
+  text-align: center;
+  color: #000;
+  background-color: whitrgb(68, 31, 200);
+  border-radius: 4px;   
+
+}
+div:active{
+  background-color: rgb(27, 167, 17);
+  color: rgb(245, 242, 243);
+}
